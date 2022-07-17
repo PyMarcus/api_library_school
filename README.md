@@ -9,6 +9,6 @@ FastAPI is a modern, fast (high-performance), web framework for building APIs wi
     
     python main.py
 
-## acess the doc
+## access the doc
     
     endpoint: /docs or /redocs
